@@ -2,7 +2,7 @@
 # Hola, Soy Xiomara
 
 - Tecnóloga en Desarrollo de Software  
-- Enfocada en desarrollo web y aplicaciones modernas  
+- Enfocada en desarrollo web 
 📍 Tebaida, Quindio  
 
 ---
